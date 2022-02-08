@@ -1,8 +1,6 @@
 ### Nice to meet you! 👋
 
-<p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, I'm a backend / C#/.NET developer from Riga/Latvia. Currently grinding and learning [CODELEX](https://www.codelex.io). [BuyMeAcoffee](https://www.buymeacoffee.com/Skege)
-
-
+<p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, I'm a backend / C#/.NET developer from Riga/Latvia. Currently grinding and learning <em> at <a href="https://www.codelex.io">CODELEX</em></p>
 
 
 <h3 align="left">Weapons of choice include but are not limited to:</h3>
