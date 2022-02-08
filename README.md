@@ -1,6 +1,6 @@
 ### Hey, nice to meet you! 👋
 
-- <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, I'm a backend / C#/.NET developer from Riga/Latvia. Currently pursuing my dream to become an software developer, learning at <em><a href="https://www.codelex.io">CODELEX</em></p>
+- <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, My name is Raitis. I'm from Riga/Latvia. Currently pursuing my dream to become an software developer, learning at <em><a href="https://www.codelex.io">CODELEX</em></p>
 
 <img align="right" alt="GIF" src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/coding.gif" />
 
