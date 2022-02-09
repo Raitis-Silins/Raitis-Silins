@@ -1,6 +1,6 @@
 ### Hey, nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, My name is Raitis. I'm from Riga/Latvia. I would describe myself as an honest, creative person, and definitely a team player. Currently pursuing my dream to become an software developer. I am a tech enthusiast & I love to talk on trending technology. <strong>C#</strong> is my first language, exploring the front & back-end of the web, can't be caught in the middle.
+- <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, My name is Raitis. I'm from Riga/Latvia. I would describe myself as an honest, creative person, and definitely a team player. Currently pursuing my dream to become an software developer. I am a tech enthusiast & I love to talk on trending technology. Passionate with problem solving and daily routines automation. <strong>C#</strong> is my first language, exploring the front & back-end of the web, can't be caught in the middle.
 
 <img align="right" alt="GIF" src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/coding.gif" />
 
