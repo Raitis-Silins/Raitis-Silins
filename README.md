@@ -7,7 +7,7 @@
 
 - 🌱  I’m currently learning C#/.NET at [CODELEX](https://www.codelex.io)
 - 🚀  Check out my recent project [PopMe Game](https://github.com/Raitis-Silins/PopMe)
-- 🚧  Currently working on [FlighT Planner](https://github.com/Raitis-Silins/FlightPlanner)
+- 🚧  Currently working on [Flight Planner](https://github.com/Raitis-Silins/FlightPlanner)
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/raitis-silins/)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
