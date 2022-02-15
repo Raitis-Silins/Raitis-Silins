@@ -28,4 +28,4 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1111&lines=mani+sauc+briedis"/>
+"https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1111&lines=mani+sauc+briedis"
