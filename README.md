@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hey%2C+nice+to+meet+you!"> 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hey%2C+nice+to+meet+you!"> <p align="left">
 <img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/wave.gif" width="30px">
 </p>
 
