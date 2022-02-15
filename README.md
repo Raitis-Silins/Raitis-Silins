@@ -26,3 +26,6 @@
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=YQP5SH9VQHNDQ)
 [BuyMeAcoffee](https://www.buymeacoffee.com/Skege)
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1111&lines=mani+sauc+briedis)](https://git.io/typing-svg)
