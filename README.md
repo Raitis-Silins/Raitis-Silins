@@ -22,7 +22,7 @@
 
 <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/salt.gif?raw=1" width="50vw"/> </p>
 
-🍋 <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=1111&multiline=true&width=111&height=30&lines=Support+me+">
+🍋 <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=2222&multiline=true&width=111&height=30&lines=Support+me+">
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=YQP5SH9VQHNDQ)
 [BuyMeAcoffee](https://www.buymeacoffee.com/Skege)
 
