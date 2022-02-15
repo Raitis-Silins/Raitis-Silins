@@ -25,7 +25,3 @@
 🍋 <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=2222&multiline=true&width=111&height=30&lines=Support+me+">
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=YQP5SH9VQHNDQ)
 [BuyMeAcoffee](https://www.buymeacoffee.com/Skege)
-
-
-
-"https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1111&lines=mani+sauc+briedis"
