@@ -3,8 +3,6 @@
 
 - <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="30vw"/> You've found my profile. In short, My name is Raitis. I'm from Riga/Latvia. I would describe myself as an honest, creative person, and definitely a team player. Currently pursuing my dream to become an software developer. I am a tech enthusiast & I love to talk on trending technology. Passionate with problem solving and daily routines automation. <strong>C#</strong> is my first language, exploring the front & back-end of the web, can't be caught in the middle.
 
-<img align="right" alt="GIF" src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/coding.gif" />
-
 - 🌱  I’m currently learning C#/.NET at [CODELEX](https://www.codelex.io)
 - 🚀  Check out my recent project [PopMe Game](https://github.com/Raitis-Silins/PopMe)
 - 🚧  Currently working on [Flight Planner](https://github.com/Raitis-Silins/FlightPlanner)
