@@ -1,4 +1,4 @@
-### Hey, nice to meet you ! <img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/wave.gif" width="1px">
+### Hey, nice to meet you ! <img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/wave.gif"  width="5" height="5">
 
 
 - <p></a><img src="https://github.com/Raitis-Silins/Raitis-Silins/blob/main/assets/cat.gif?raw=1" width="1vw"/> You've found my profile. In short, My name is Raitis. I'm from Riga/Latvia. I would describe myself as an honest, creative person, and definitely a team player. Currently pursuing my dream to become an software developer. I am a tech enthusiast & I love to talk on trending technology. Passionate with problem solving and daily routines automation. <strong>C#/.NET</strong> is my first language, exploring the front & back-end of the web, can't be caught in the middle.
